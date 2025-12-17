@@ -1,4 +1,5 @@
 ![Professional Certificate Coursework](https://img.shields.io/badge/Professional%20Certificate-Coursework-blue)
+![Status](https://img.shields.io/badge/Status-Completed-success)
 ![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
 ![SQL](https://img.shields.io/badge/SQL-Relational%20Databases-orange)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-orange)
