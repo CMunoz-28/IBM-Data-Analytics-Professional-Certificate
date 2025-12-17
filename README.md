@@ -32,6 +32,13 @@ All work was completed using **industry-standard tools** and structured around r
 
 ---
 
+## 🥇 Professional Certificate
+
+<p align="center">
+<img src="Certificates/data analyst.png" width=80% height=80%>
+
+---
+
 ## Tools & Technologies
 
 * **Languages:** Python, SQL
