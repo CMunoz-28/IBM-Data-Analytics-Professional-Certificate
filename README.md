@@ -1,4 +1,7 @@
-![Star Badge](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99)
+![Professional Certificate Coursework](https://img.shields.io/badge/Professional%20Certificate-Coursework-blue)
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
+![SQL](https://img.shields.io/badge/SQL-Relational%20Databases-orange)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-orange)
 [![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)]( https://github.com/CMunoz-28?tab=repositories)
 [![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/CMunoz-28)
 
