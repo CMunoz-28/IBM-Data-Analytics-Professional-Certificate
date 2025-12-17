@@ -85,35 +85,39 @@ Each folder contains **notebooks, datasets, and outputs** created as part of the
 
 ## Coursework Breakdown (High-Level)
 
-### 1. Introduction to Data Analytics
+### [Introduction to Data Analytics](https://github.com/CMunoz-28/IBM-Data-Analytics-Professional-Certificate/blob/main/Certificates/Introduction%20to%20Data%20Analytics.pdf)
 
 Foundational concepts including the data lifecycle, analyst responsibilities, and data ecosystems (databases, warehouses, pipelines).
 
-### 2. Excel Basics for Data Analysis
+**[Excel Basics for Data Analysis](https://github.com/CMunoz-28/IBM-Data-Analytics-Professional-Certificate/blob/main/Certificates/Excel%20Basics%20for%20Data%20Analysis.pdf)**  
 
-Hands-on spreadsheet analysis covering data cleaning, filtering, sorting, pivot tables, and basic analytical functions.
+Spreadsheet analysis covering data cleaning, filtering, sorting, pivot tables, and basic analytics.
 
-### 3. Data Visualization & Dashboards
+**[Data Visualization & Dashboards with Excel and Cognos](https://github.com/CMunoz-28/IBM-Data-Analytics-Professional-Certificate/blob/main/Certificates/Data%20Visualization%20and%20Dashboards.pdf)**  
 
-Creation of charts and dashboards using Excel and IBM Cognos to communicate insights clearly to non-technical audiences.
+Creating charts and dashboards to communicate insights to non-technical audiences.
 
-### 4. Python for Data Science
+**[Python for Data Science, AI & Development](https://github.com/CMunoz-28/IBM-Data-Analytics-Professional-Certificate/blob/main/Certificates/Python%20for%20Data%20Science.pdf)**  
 
-Core Python programming for analytics, including data structures, control flow, API usage, and data manipulation.
+Core Python programming for analytics, including data structures, control flow, and data manipulation.
 
-### 5. Databases & SQL for Data Science
+**[Python Project for Data Science](https://github.com/CMunoz-28/IBM-Data-Analytics-Professional-Certificate/blob/main/Certificates/Python%20Project%20for%20Data%20Science.pdf)**  
+
+Hands-on project demonstrating Python skills applied to real data problems.
+
+### [Databases & SQL for Data Science](https://github.com/CMunoz-28/IBM-Data-Analytics-Professional-Certificate/blob/main/Certificates/Databases%20and%20SQL%20for%20Data%20Science%20with%20Python.pdf)
 
 Writing SQL queries from basic SELECT statements to joins, aggregations, subqueries, and database design concepts.
 
-### 6. Data Analysis with Python
+### [Data Analysis with Python](https://github.com/CMunoz-28/IBM-Data-Analytics-Professional-Certificate/blob/main/Certificates/Data%20Analysis%20with%20Python.pdf)
 
 Exploratory data analysis (EDA), feature exploration, regression modeling, and evaluation using Python libraries.
 
-### 7. Data Visualization with Python
+### [Data Visualization with Python](https://github.com/CMunoz-28/IBM-Data-Analytics-Professional-Certificate/blob/main/Certificates/Data%20Visualization%20with%20Python.pdf)
 
 Building visualizations such as bar charts, histograms, scatter plots, maps, and dashboards for insight storytelling.
 
-### 8. Capstone Project
+### [Capstone Project](https://github.com/CMunoz-28/IBM-Data-Analytics-Professional-Certificate/blob/main/Certificates/IBM%20Data%20Analyst%20Capstone%20Project.pdf)
 
 An end-to-end analytics project simulating a real business problem—data ingestion, analysis, visualization, and presentation of insights.
 
