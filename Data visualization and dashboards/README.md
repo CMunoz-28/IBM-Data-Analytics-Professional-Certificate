@@ -6,7 +6,7 @@ The focus of this work is on designing visualizations that help stakeholders qui
 
 ---
 
-## 🎯 Analytical Focus
+## Analytical Focus
 
 The work in this folder emphasizes:
 
@@ -17,7 +17,7 @@ The work in this folder emphasizes:
 
 ---
 
-## 🧠 Skills Demonstrated
+## Skills Demonstrated
 
 - Chart selection and visual best practices  
 - KPI-driven dashboard design  
@@ -27,7 +27,7 @@ The work in this folder emphasizes:
 
 ---
 
-## 📂 Folder Contents
+## Folder Contents
 
 - **Excel workbooks** containing cleaned data and chart-based analyses  
 - **Dashboard assets** created using IBM Cognos Analytics  
@@ -38,7 +38,7 @@ The files reflect a complete workflow from prepared data to finalized visual out
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 - **Microsoft Excel**  
 - **IBM Cognos Analytics**
