@@ -1,6 +1,6 @@
 # 📊 Excel Basics for Data Analysis
 
-This folder contains applied Excel-based data analysis work completed as part of the [**IBM Data Analytics Professional Certificate**](https://www.coursera.org/learn/excel-basics-data-analysis-ibm?specialization=ibm-data-analyst). The materials demonstrate foundational spreadsheet techniques used by analysts to prepare, analyze, and summarize structured datasets for reporting and decision-making.
+This folder contains applied Excel-based data analysis work completed as part of the **[IBM Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-analyst)**. The materials demonstrate foundational spreadsheet techniques used by analysts to prepare, analyze, and summarize structured datasets for reporting and decision-making.
 
 ---
 
