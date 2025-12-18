@@ -1,3 +1,11 @@
+![IBM](https://img.shields.io/badge/IBM-Professional%20Certificate-blue)
+![Coursera](https://img.shields.io/badge/Coursera-Coursework-lightblue?logo=coursera)
+![Data Visualization](https://img.shields.io/badge/Data-Visualization-blue)
+![Dashboards](https://img.shields.io/badge/Dashboards-KPI%20Driven-purple)
+![Excel](https://img.shields.io/badge/Excel-Analytics-green?logo=microsoft-excel)
+![IBM Cognos](https://img.shields.io/badge/IBM-Cognos%20Analytics-blue?logo=ibm)
+![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-Reporting-orange)
+
 # 📊 Data Visualization & Dashboards with Excel and Cognos
 
 This folder contains applied data visualization and dashboarding work completed as part of the **[IBM Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-analyst)**. The materials demonstrate how analytical findings can be transformed into **clear, decision-ready visual outputs** using spreadsheet-based and BI tools.
