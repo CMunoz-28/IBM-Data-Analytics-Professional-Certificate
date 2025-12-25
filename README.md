@@ -106,19 +106,19 @@ Core Python programming for analytics, including data structures, control flow, 
 
 Hands-on project demonstrating Python skills applied to real data problems.
 
-### [Databases & SQL for Data Science](https://github.com/CMunoz-28/IBM-Data-Analytics-Professional-Certificate/blob/main/Certificates/Databases%20and%20SQL%20for%20Data%20Science%20with%20Python.pdf)
+**[Databases & SQL for Data Science](https://github.com/CMunoz-28/IBM-Data-Analytics-Professional-Certificate/blob/main/Certificates/Databases%20and%20SQL%20for%20Data%20Science%20with%20Python.pdf)**
 
 Writing SQL queries from basic SELECT statements to joins, aggregations, subqueries, and database design concepts.
 
-### [Data Analysis with Python](https://github.com/CMunoz-28/IBM-Data-Analytics-Professional-Certificate/blob/main/Certificates/Data%20Analysis%20with%20Python.pdf)
+**[Data Analysis with Python](https://github.com/CMunoz-28/IBM-Data-Analytics-Professional-Certificate/blob/main/Certificates/Data%20Analysis%20with%20Python.pdf)**
 
 Exploratory data analysis (EDA), feature exploration, regression modeling, and evaluation using Python libraries.
 
-### [Data Visualization with Python](https://github.com/CMunoz-28/IBM-Data-Analytics-Professional-Certificate/blob/main/Certificates/Data%20Visualization%20with%20Python.pdf)
+**[Data Visualization with Python](https://github.com/CMunoz-28/IBM-Data-Analytics-Professional-Certificate/blob/main/Certificates/Data%20Visualization%20with%20Python.pdf)**
 
 Building visualizations such as bar charts, histograms, scatter plots, maps, and dashboards for insight storytelling.
 
-### [Capstone Project](https://github.com/CMunoz-28/IBM-Data-Analytics-Professional-Certificate/blob/main/Certificates/IBM%20Data%20Analyst%20Capstone%20Project.pdf)
+**[Capstone Project](https://github.com/CMunoz-28/IBM-Data-Analytics-Professional-Certificate/blob/main/Certificates/IBM%20Data%20Analyst%20Capstone%20Project.pdf)**
 
 An end-to-end analytics project simulating a real business problem—data ingestion, analysis, visualization, and presentation of insights.
 
