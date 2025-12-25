@@ -11,7 +11,7 @@
 
 **Hands-On Coursework & Applied Projects**
 
-> This repository documents my completion of the **IBM Data Analyst Professional Certificate**, a multi-course program focused on practical data analysis skills using Python, SQL, Excel, and data visualization tools.
+> This repository documents my completion of the **[IBM Data Analyst Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-analyst/paidmedia?utm_medium=sem&utm_source=gg&utm_campaign=b2c_namer_ibm-data-analyst_ibm_ftcof_professional-certificates_px_dr_bau_gg_sem_pr-bd_us-ca_en_m_hyb_23-04_x&campaignid=19984826761&adgroupid=149748350124&device=c&keyword=ibm%20data%20analyst%20professional%20certificate&matchtype=b&network=g&devicemodel=&creativeid=705900515964&assetgroupid=&targetid=kwd-1038110894069&extensionid=&placement=&gad_source=1&gad_campaignid=19984826761&gbraid=0AAAAADdKX6btaP13xwyd_dBaaiFdEXN7D&gclid=CjwKCAiA3rPKBhBZEiwAhPNFQLhEgo83wGfST_NCfWZGqXxY4KNTVn8KxDhVzXfJdd1MwNwE_w-ZYRoCHrgQAvD_BwE)**, a multi-course program focused on practical data analysis skills using Python, SQL, Excel, and data visualization tools.
 >
 > The work included here reflects applied assignments, exploratory analyses, dashboards, and a final capstone project designed to simulate real-world analyst workflows.
 
