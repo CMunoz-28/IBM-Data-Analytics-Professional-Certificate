@@ -86,7 +86,7 @@ Each folder contains **notebooks, datasets, and outputs** created as part of the
 
 ## Coursework Breakdown (High-Level)
 
-### [Introduction to Data Analytics](https://github.com/CMunoz-28/IBM-Data-Analytics-Professional-Certificate/blob/main/Certificates/Introduction%20to%20Data%20Analytics.pdf)
+**[Introduction to Data Analytics](https://github.com/CMunoz-28/IBM-Data-Analytics-Professional-Certificate/blob/main/Certificates/Introduction%20to%20Data%20Analytics.pdf)**
 
 Foundational concepts including the data lifecycle, analyst responsibilities, and data ecosystems (databases, warehouses, pipelines).
 
