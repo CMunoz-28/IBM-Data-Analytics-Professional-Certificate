@@ -49,7 +49,7 @@ Files are organized to reflect a realistic analyst workflow, from raw data inges
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 - **Python**
 - **Pandas**
