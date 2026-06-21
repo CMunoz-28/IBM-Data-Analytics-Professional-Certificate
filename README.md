@@ -134,6 +134,18 @@ An end-to-end analytics project simulating a real business problem—data ingest
 
 ---
 
+## 📊 Tableau Dashboards
+
+The data visualization work from this program is published on Tableau Public:
+
+**[Superstore KPI Dashboard →](https://public.tableau.com/app/profile/cmunoz/viz/SuperstoreKPIDashboard_17383564897750/Dashboard1)**
+End-to-end KPI tracking across sales, profit, quantity, and customer segments — with regional breakdowns and trend analysis.
+
+**[Sales Dashboard | Overview →](https://public.tableau.com/app/profile/cmunoz/viz/SalesDashboardOverview_17386310620690/Dashboard)**
+High-level sales performance overview with segment, category, and monthly trend views.
+
+---
+
 ## Related Work
 
 If you’re reviewing this repository as part of my broader portfolio, you may also be interested in:
